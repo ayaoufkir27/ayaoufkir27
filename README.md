@@ -1,4 +1,4 @@
-## Hi there 👋
+[![ayoufkir's 42 stats](https://badge.mediaplus.ma/greenbinary/ayoufkir)](https://github.com/oakoudad/badge42)
 
 <!--
 **ayaoufkir27/ayaoufkir27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
